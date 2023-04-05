@@ -42,6 +42,7 @@ function SideBar2() {
             dataKey="uv"
           />
 
+                   {/* Importing radial bar chart*/}
         </RadialBarChart>
       </ResponsiveContainer>
       </div>
