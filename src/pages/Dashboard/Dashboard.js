@@ -27,6 +27,7 @@ function Dashboard() {
           <div className='w-[450px] h-[450px] bg-slate-100 rounded-full m-6  relative'>
             <div className='bg-white rounded-full w-[350px] h-[350px] m-12 absolute'>
               <div className='w-96'>
+       {/* Importing bubble chart */}
          <DemoScatter   /> 
          </div> </div>
           </div>
