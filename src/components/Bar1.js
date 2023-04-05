@@ -94,6 +94,7 @@ function Bar1() {
 
 
                         <Bar dataKey="sales" fill="#a8a29e" />
+                    {/*Importing Bar chart */}
                     </BarChart>
                 </ResponsiveContainer>
                 <ResponsiveContainer width="15%" height="70%">
@@ -101,26 +102,31 @@ function Bar1() {
 
 
                         <Bar dataKey="sales" fill="#f87171" />
+                        {/*Importing Bar chart */}
                     </BarChart>
                 </ResponsiveContainer>
                 <ResponsiveContainer width="15%" height="70%">
                     <BarChart width={20} height={50} data={data}>
                         <Bar dataKey="sales" fill="#a8a29e" />
+                             {/*Importing Bar chart */}
                     </BarChart>
                 </ResponsiveContainer>
                 <ResponsiveContainer width="15%" height="70%">
                     <BarChart width={20} height={50} data={data}>
                         <Bar dataKey="sales" fill="#a8a29e" />
+                     {/*Importing Bar chart */}
                     </BarChart>
                 </ResponsiveContainer>
                 <ResponsiveContainer width="15%" height="70%">
                     <BarChart width={20} height={50} data={data}>
                         <Bar dataKey="sales" fill="#a8a29e" />
+                    {/*Importing Bar chart */}
                     </BarChart>
                 </ResponsiveContainer>
                 <ResponsiveContainer width="15%" height="70%">
                     <BarChart width={20} height={50} data={data}>
                         <Bar dataKey="sales" fill="#a8a29e" />
+                        {/*Importing Bar chart */}
                     </BarChart>
                 </ResponsiveContainer>
            
