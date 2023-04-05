@@ -17,6 +17,7 @@ function Overview() {
        </div>
       </div> 
      <div className='bg-[#E7E9EB] pt-12 pb-2'>
+                   {/* Importing the bar chart */}
                 <Bar1 />
              </div> 
     </>
