@@ -7,7 +7,8 @@ const DemoScatter = () => {
   useEffect(() => {
     asyncFetch();
   }, []);
-
+  
+    {/* Creating Bubble Chart */}
   const asyncFetch = () => {
     fetch('https://gw.alipayobjects.com/os/antfincdn/t81X1wXdoj/scatter-data.json')
       .then((response) => response.json())
