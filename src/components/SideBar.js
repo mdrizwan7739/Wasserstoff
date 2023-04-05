@@ -8,6 +8,7 @@ import { Progress, Space } from 'antd';
 function SideBar() {
 
     return (
+           {/* Sidebar section */}
         <div className=' overflow-y-hidden'>
             <p className='font-medium ml-14 pb-16' >WSTF FRONT-END HACKATHON</p>
             <div className='ml-14 flex-col'>
